@@ -1,0 +1,29 @@
+##Upload the information needed to identify an investor
+
+#create form
+#create JSON
+#send is someplace
+
+
+
+-img: identity drivers license, etc.
+-img type (3 way)
+-image format pdf, gif, jppg, ng.....
+-name
+-address
+-birthdate
+-state
+-country
+-zip
+-phone
+-var1
+-var2
+-var3
+-var4
+-var5
+-var6
+-var7
+-var8
+-var9
+-var10
+
